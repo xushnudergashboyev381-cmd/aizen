@@ -1,0 +1,33 @@
+/* input{
+    width: 350px;
+    height: 45px;
+    
+}
+h2{
+    text-align: center;
+} */
+ h1{
+    background-color: bisque;
+    text-align: center;
+ }
+ .btn{
+   background-color: green;
+ }
+ form{
+    background-color: black;
+    border-radius: 70px;
+    text-align: center;
+ }
+ label{
+    color: yellow;
+    font-size: 30px;
+
+ }
+ input{
+    border-radius: 20px;
+    font-size: 20px;
+ }
+ button{
+    width: 200px; height: 40px;
+    border-radius: 30px;
+ }
